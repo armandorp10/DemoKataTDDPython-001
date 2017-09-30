@@ -1,4 +1,4 @@
 
 class Calculadora:
-    def suma(cadena):
-        pass
+    def suma(self, cadena):
+        return 0
